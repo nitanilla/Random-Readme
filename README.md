@@ -9,7 +9,7 @@ To use the Random Readme, choose one of the following options to get started:
 * [Fork this repository on GitHub](https://github.com/nitanilla/Random-Readme#fork-destination-box)
 
 ##Pre-requisites:
-Ubuntu OS
+Ubuntu OS:
 execute in the terminal: example
 ```R
 ruby random.rb /home/mycorpus 121
