@@ -13,19 +13,20 @@ ruby random.rb /home/mycorpus 121
 ```
 
 ## Instructions:
-This scripts receive two arguments:
+This scripts receive two arguments:  
   @folder-path: The path to an folder that must have files with the format: "0000.-.*"  
   @number-of-files: The number of files to be randomically selected
 
- Usage: ruby random.rb @folder-path @number-of-files  
- Example: ruby random.rb /home/mycorpus 209  
+Usage:  
+  ruby random.rb @folder-path @number-of-files  
+  Example: ruby random.rb /home/mycorpus 209  
 
- It will create two files:  
+It will create two files:  
    <folder-path>/aaa-random.txt  
-       contains all the numbers of the files randomized
+   contains all the numbers of the files randomized
 
    <folder-path>/aaa-random-contents.txt  
-       contains the contents of the files randomized  
+   contains the contents of the files randomized  
 
 ## Bugs and Issues
 Have a bug or an issue with this? [Open a new issue](https://github.com/nitanilla/Random-Readme/issues) here on GitHub 
