@@ -1,5 +1,5 @@
 # Random Readme
-Code for selecting samples of readmes given a [corpus of readme documents](http://corpus-retrieval.herokuapp.com). This script aims to facilitate one part of statistical tasks such us the choosing of samples.
+Code for selecting samples of readmes given a [corpus of readme documents](http://corpus-retrieval.herokuapp.com). This script aims to facilitate one part of statistical tasks such us the random choosing of samples.
 
 To use the Random Readme, choose one of the following options to get started:
 * [Download the zip](https://github.com/nitanilla/Random-Readme/archive/master.zip)
