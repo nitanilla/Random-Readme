@@ -1,9 +1,6 @@
 # Random Readme
 Code for selecting samples of readmes given a [corpus of readme documents](http://corpus-retrieval.herokuapp.com). This script aims to facilitate one part of statisticall tasks such us the choosing of samples.
 
-This script can be used as complement of this artifact to extract information from GitHub
-># [The Corpus Builder](https://github.com/nitanilla/corpus-retrieval#fork-destination-box)
-
 To use the Random Readme, choose one of the following options to get started:
 * [Download the zip](https://github.com/nitanilla/Random-Readme/archive/master.zip)
 * [Fork this repository on GitHub](https://github.com/nitanilla/Random-Readme#fork-destination-box)
