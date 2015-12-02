@@ -10,7 +10,7 @@ To use the Random Readme, choose one of the following options to get started:
 
 ##Pre-requisites:
 Ubuntu OS:
-execute in the terminal: example
+execute in the terminal: 
 ```R
 ruby random.rb /home/mycorpus 121
 ```
